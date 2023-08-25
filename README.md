@@ -3,7 +3,8 @@
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?w=360&t=st=1689412483~exp=1689413083~hmac=6e6d98329aeaa4cf9d9fa28f6cc46e0199d9929e10db808096e5d25b0d5dc866">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshuku01&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshuku01" /> </p>
-- 📫 How to reach me **sudhanshu620026@gmail.com**
+- 📫 How to reach me
+**sudhanshu620026@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
