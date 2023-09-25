@@ -1,13 +1,11 @@
 <h1 align="center">Hi There, <br/> I'm Sudhanshu</h1>
 <h3 align="center">A Full-Stack Web and Android developer from India</h3>
 
-- 🔭 I’m currently Looking for **Remote Job**
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **AWS Learner.**
 
-- 🤝 I’m looking for help with **React/Next Js.**
+- 🤝 I’m looking for help with **ReactJs/DevOps/ReactNative**
 
 - 📫 How to reach me **sudhanshu620026@gmail.com**
 
