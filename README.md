@@ -1,14 +1,4 @@
 <h1 align="center">Hi There, <br/> I'm Sudhanshu</h1>
-<h3 align="center">A Full-Stack Web and Android developer from India</h3>
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on **AWS Learner.**
-
-- 🤝 I’m looking for help with **ReactJs/DevOps/ReactNative**
-
-- 📫 How to reach me **sudhanshu620026@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/sudhanshu.kushwaha01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudhanshu.kushwaha01" height="30" width="40" /></a>
