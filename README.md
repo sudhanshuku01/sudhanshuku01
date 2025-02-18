@@ -3,7 +3,7 @@
 I am Sudhanshu Kumar, a tech enthusiast & software developer. I enjoy building full-stack applications and always open to collaborating on innovative projects. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-sudhanshuku01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sudhanshuku01/)](https://www.linkedin.com/in/sudhanshuku01/)
-[![Instagram Badge](https://img.shields.io/badge/-sudhanshuku01-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sudhanshuku01)](https://instagram.com/sudhanshuku01)
+[![Instagram Badge](https://img.shields.io/badge/-sudhanshu.kushwaha01-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sudhanshu.kushwaha01/)](https://www.instagram.com/sudhanshu.kushwaha01/)
 [![Gmail Badge](https://img.shields.io/badge/-sudhanshuku01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sudhanshuku01@gmail.com)](mailto:sudhanshuku01@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=web&logoColor=white&link=https://sudhanshine.site)](https://sudhanshine.site)
 
